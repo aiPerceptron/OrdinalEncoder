@@ -1,7 +1,7 @@
 # OrdinalEncoder transformer
 
 ## NOTE: 
-this is not the same transformer as ChatGPT (the t stands for transformer. 
+this is not the same transformer as ChatGPT (the t stands for transformer).
 This scikitlearn transformer takes text and turns it into numbers.
 
 ## Example:
