@@ -1,3 +1,11 @@
+"""
+This program is about converting text to numbers in scikitlearn.
+
+NOTE: this is not machine learning, the ordinal encoder will not guess 
+If a word not shown in the training data shows up in the testing data, it will not work.
+
+"""
+
 from sklearn.preprocessing import OrdinalEncoder
 import numpy as np
 
